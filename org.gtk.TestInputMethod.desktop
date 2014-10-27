@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Basic Input Method
+Comment=Demo Input Method
+Exec=gapplication launch org.gtk.TestInputMethod
+DBusActivatable=true
+StartupNotify=true
+Implements=org.freedesktop.InputMethod
